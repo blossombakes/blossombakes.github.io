@@ -1,7 +1,19 @@
 [
   {
     "title": "Sourdough Bread",
-    "image": "assets/images/sourdough.jpg",
+    "image": "assets/images/free-recipes.png",
+    "description": "Recorded video tutorial with troubleshooting.",
+    "price": "₹999"
+  },
+  {
+    "title": "Chocolate Cake",
+    "image": "assets/images/free-recipes.png",
+    "description": "Recorded video tutorial with troubleshooting.",
+    "price": "₹999"
+  },
+  {
+    "title": "Chocolate cookies",
+    "image": "assets/images/free-recipes.png",
     "description": "Recorded video tutorial with troubleshooting.",
     "price": "₹999"
   }

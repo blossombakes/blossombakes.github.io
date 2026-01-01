@@ -1,7 +1,18 @@
 [
   {
     "title": "1-1 Online Baking Class",
-    "image": "assets/images/class.jpg",
+    "image": "assets/images/live-class.png",
+    "description": "Personalised session based on your needs."
+  },
+  {
+    "title": "1-1 Online Baking Class",
+    "image": "assets/images/live-class.png",
+    "description": "Personalised session based on your needs."
+  },
+  {
+    "title": "1-1 Online Baking Class",
+    "image": "assets/images/live-class.png",
     "description": "Personalised session based on your needs."
   }
+
 ]
