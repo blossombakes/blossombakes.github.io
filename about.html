@@ -1,23 +1,121 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<title>About | Blossom Bakes</title>
-	<link rel="stylesheet" href="assets/css/style.css">
-	<script defer src="assets/js/include-fragments.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About | Blossom Bakes</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script defer src="assets/js/include-fragments.js"></script>
 </head>
+
 <body>
 
-	<div data-include="header"></div>
+  <div data-include="header"></div>
+<main class="about-page">
 
-	<main>
-		<h2 style="text-align:center">About Blossom Bakes</h2>
-		<section class="content" style="max-width:900px;margin:18px auto;padding:0 12px;">
-			<p>Welcome to Blossom Bakes — homemade cakes and desserts. More about the bakery goes here.</p>
-		</section>
-	</main>
+  <!-- Hero -->
+  <section class="about-hero">
+    <h1>Blossom Bakes</h1>
+    <p>Where passion meets simplicity in baking</p>
+  </section>
 
-	<div data-include="footer"></div>
+  <!-- Split Story Section (Chef + Our Story) -->
+  <section class="about-split">
+
+    <!-- Left: Chef -->
+    <div class="about-panel">
+      <img 
+        src="assets/images/chef.png" 
+        alt="The Chef Behind Blossom Bakes"
+        class="about-icon"
+      >
+
+      <h2 class="about-title-script">The Chef Behind</h2>
+      <h3 class="about-title-main">BLOSSOM BAKES</h3>
+
+      <p>
+        I’m <strong>Pri</strong>, the baker behind <strong>Blossom Bakes</strong> 🌸
+        My baking journey began in <strong>2015</strong> from my home kitchen and
+        evolved from passion to profession after completing a
+        <strong>Diploma in Baking</strong>.
+      </p>
+
+      <p>
+        Today, I create <strong>simple, reliable, and beginner-friendly recipes</strong>,
+        believing that anyone can bake with the right guidance, clear steps,
+        and a little confidence.
+      </p>
+    </div>
+
+    <!-- Divider -->
+    <div class="about-divider"></div>
+
+    <!-- Right: Our Story -->
+    <div class="about-panel">
+      <img 
+        src="assets/images/our-story.png" 
+        alt="Our Story"
+        class="about-icon-story"
+      >
+
+    <h2 class="about-title-script story">Why Blossom Bakes</h2>
+	<h3 class="about-title-main">OUR PHILOSOPHY</h3>
+
+      <p>
+        <strong>Blossom Bakes</strong> was founded to make <strong>baking</strong> accessible and enjoyable for all,
+        from complete beginners to seasoned bakers. We believe that <strong>baking</strong> should
+        be a joyful experience, not an intimidating one. 🍰
+      </p>
+
+      <p>
+        Our approach focuses on <strong>simplicity</strong>, <strong>reliability</strong>, and <strong>community</strong>—providing
+        clear instructions, quality ingredients, and a supportive environment
+        where everyone can succeed and share their creations.
+      </p>
+    </div>
+
+  </section>
+
+  <!-- Offerings -->
+  <section class="about-story">
+    <h2>What You’ll Find at Blossom Bakes</h2>
+
+    <div class="offerings">
+      <div class="card">
+        <span class="icon">🍰</span>
+        <h3>Free Recipes</h3>
+        <p>Tried-and-tested recipes designed for beginners.</p>
+      </div>
+
+      <div class="card">
+        <span class="icon">🎥</span>
+        <h3>Video Recipes</h3>
+        <p>Step-by-step visual guidance for confident baking.</p>
+      </div>
+
+      <div class="card">
+        <span class="icon">🧁</span>
+        <h3>Online Classes</h3>
+        <p>Group & one-on-one baking sessions.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="about-cta">
+    <h2>Ready to Start Baking?</h2>
+    <p>Explore recipes or join a class and bake with confidence.</p>
+    <a href="classes.html" class="btn-primary">View Classes</a>
+  </section>
+
+</main>
+
+
+  <div data-include="footer"></div>
+
 </body>
 </html>
