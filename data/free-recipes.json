@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "chocolate-chip-cookies",
+    "title": "Chocolate Chip Cookies",
+    "image": "assets/images/free-recipes.png",
+    "description": "Crispy edges, soft center.",
+    "prep": "15 mins",
+    "cook": "10 mins",
+    "servings": "24 cookies",
+    "difficulty": "Easy",
+    "ingredients": [
+      "1 cup unsalted butter",
+      "1 cup white sugar",
+      "1 cup brown sugar",
+      "2 eggs",
+      "2 tsp vanilla extract",
+      "3 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "2 cups chocolate chips"
+    ],
+    "procedure": [
+      "Preheat oven to 180°C (350°F).",
+      "Cream together the butter and sugars until light and fluffy.",
+      "Add eggs one at a time, then stir in vanilla.",
+      "Sift together flour, baking soda and salt; gradually blend into the creamed mixture.",
+      "Fold in chocolate chips.",
+      "Drop by spoonfuls onto ungreased baking sheets.",
+      "Bake for 8-12 minutes until golden around the edges. Cool on wire racks."
+    ]
+  },
+  {
+    "slug": "vanilla-sponge-cake",
+    "title": "Vanilla Sponge Cake",
+    "image": "assets/images/free-recipes.png",
+    "description": "Soft and fluffy basic sponge.",
+    "prep": "15 mins",
+    "cook": "25 mins",
+    "servings": "8 slices",
+    "difficulty": "Beginner",
+    "ingredients": [
+      "4 large eggs",
+      "1 cup sugar",
+      "1 cup all-purpose flour",
+      "1 tsp baking powder",
+      "2 tbsp melted butter",
+      "1 tsp vanilla extract"
+    ],
+    "procedure": [
+      "Preheat oven to 175°C (350°F). Grease and line a round cake tin.",
+      "Whisk eggs and sugar until pale and ribbon-like.",
+      "Fold in sifted flour and baking powder gently to keep air in the batter.",
+      "Stir in melted butter and vanilla.",
+      "Pour into tin and bake for 20-25 minutes or until a skewer comes out clean. Cool before slicing."
+    ]
+  }
+]
