@@ -17,7 +17,7 @@ async function loadData(url, containerId, type) {
     imgWrap.innerHTML = `<img src="${item.image}" alt="${item.title}">`;
 
     // For paid recipes, add a price overlay on the image
-    if (type === 'paid') {
+    if (type === 'paid' || type === 'classes') {
       const priceEl = document.createElement('div');
       priceEl.className = 'price-badge';
       priceEl.textContent = item.price || 'Price on request';
@@ -56,5 +56,5 @@ if (document.getElementById("paidRecipes")) {
   loadData("data/paid-recipes.json", "paidRecipes", "paid");
 }
 if (document.getElementById("classes")) {
-  loadData("data/classes.json", "classes");
+  loadData("data/classes.json", "classes", "classes");
 }
