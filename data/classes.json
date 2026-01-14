@@ -1,18 +1,45 @@
 [
-  {
-    "title": "1-1 Online Baking Class",
-    "image": "assets/images/live-class.png",
-    "description": "Personalised session based on your needs."
-  },
-  {
-    "title": "1-1 Online Baking Class",
-    "image": "assets/images/live-class.png",
-    "description": "Personalised session based on your needs."
-  },
-  {
-    "title": "1-1 Online Baking Class",
-    "image": "assets/images/live-class.png",
-    "description": "Personalised session based on your needs."
-  }
+{
+  "title": "Choco Chunk Cookies (Egg & Eggless)",
+  "image": "assets/images/paid-recipes/choco-chunk-cookies.jpeg",
+  "description": "Recorded video tutorial covering both egg and eggless versions with clear techniques and troubleshooting.",
+  "price": "₹1,199"
+},
+{
+  "title": "Red Velvet Cookies",
+  "image": "assets/images/paid-recipes/red-velvet-cookies.png",
+  "description": "Recorded video tutorial to master soft bakery-style red velvet cookies with flavour balance and texture tips.",
+  "price": "₹799"
+},
+{
+  "title": "Brownies Masterclass (Variants)",
+  "image": "assets/images/paid-recipes/brownies-variants.png",
+  "description": "Recorded video tutorial covering classic brownies along with double chocolate, nut, Nutella, and cream cheese variants.",
+  "price": "₹1,999"
+},
+{
+  "title": "Banana Chocolate Cake",
+  "image": "assets/images/paid-recipes/banana-chocolate-cake.png",
+  "description": "Recorded video tutorial for a moist banana chocolate cake with baking tips and common mistake fixes.",
+  "price": "₹799"
+},
+{
+  "title": "Healthy Bakes Masterclass",
+  "image": "assets/images/paid-recipes/healthy-bakes.png",
+  "description": "Recorded video tutorial featuring health mix chocolate cookies and sweet potato brownies with beginner-friendly methods.",
+  "price": "₹1,199"
+},
+{
+  "title": "Black Forest & White Forest Cake",
+  "image": "assets/images/paid-recipes/forest-cakes.jpeg",
+  "description": "Recorded video tutorial covering both Black Forest and White Forest cakes with layering, cream handling, and finishing techniques.",
+  "price": "₹1,499"
+},
+{
+  "title": "Piped Butter Cookies Masterclass",
+  "image": "assets/images/paid-recipes/piped-cookies.png",
+  "description": "Recorded video tutorial covering piped butter cookies with vanilla, chocolate, rose, and coffee variants, focusing on piping consistency, shape control, and no-spread techniques.",
+  "price": "₹1,299"
+}
 
 ]

@@ -1,57 +1,91 @@
 [
-  {
-    "slug": "chocolate-chip-cookies",
-    "title": "Chocolate Chip Cookies",
-    "image": "assets/images/free-recipes.png",
-    "description": "Crispy edges, soft center.",
-    "prep": "15 mins",
-    "cook": "10 mins",
-    "servings": "24 cookies",
-    "difficulty": "Easy",
-    "ingredients": [
-      "1 cup unsalted butter",
-      "1 cup white sugar",
-      "1 cup brown sugar",
-      "2 eggs",
-      "2 tsp vanilla extract",
-      "3 cups all-purpose flour",
-      "1 tsp baking soda",
-      "1/2 tsp salt",
-      "2 cups chocolate chips"
-    ],
-    "procedure": [
-      "Preheat oven to 180°C (350°F).",
-      "Cream together the butter and sugars until light and fluffy.",
-      "Add eggs one at a time, then stir in vanilla.",
-      "Sift together flour, baking soda and salt; gradually blend into the creamed mixture.",
-      "Fold in chocolate chips.",
-      "Drop by spoonfuls onto ungreased baking sheets.",
-      "Bake for 8-12 minutes until golden around the edges. Cool on wire racks."
-    ]
-  },
-  {
-    "slug": "vanilla-sponge-cake",
-    "title": "Vanilla Sponge Cake",
-    "image": "assets/images/free-recipes.png",
-    "description": "Soft and fluffy basic sponge.",
-    "prep": "15 mins",
-    "cook": "25 mins",
-    "servings": "8 slices",
-    "difficulty": "Beginner",
-    "ingredients": [
-      "4 large eggs",
-      "1 cup sugar",
-      "1 cup all-purpose flour",
-      "1 tsp baking powder",
-      "2 tbsp melted butter",
-      "1 tsp vanilla extract"
-    ],
-    "procedure": [
-      "Preheat oven to 175°C (350°F). Grease and line a round cake tin.",
-      "Whisk eggs and sugar until pale and ribbon-like.",
-      "Fold in sifted flour and baking powder gently to keep air in the batter.",
-      "Stir in melted butter and vanilla.",
-      "Pour into tin and bake for 20-25 minutes or until a skewer comes out clean. Cool before slicing."
-    ]
-  }
+{
+  "slug": "butter-cookies",
+  "title": "Butter Cookies",
+  "image": "assets/images/free-recipes/butter-cookies.png",
+  "description": "Classic melt-in-the-mouth butter cookies.",
+  "prep": "15 mins",
+  "cook": "12 mins",
+  "servings": "20 cookies",
+  "difficulty": "Easy",
+  "ingredients": [
+    "1 cup unsalted butter (softened)",
+    "1/2 cup powdered sugar",
+    "1 tsp vanilla extract",
+    "2 cups all-purpose flour",
+    "1/4 tsp salt"
+  ],
+  "procedure": [
+    "Preheat oven to 170°C (340°F). Line a baking tray with parchment paper.",
+    "Cream butter and powdered sugar until light and smooth.",
+    "Add vanilla extract and mix well.",
+    "Add flour and salt; mix gently to form a soft dough.",
+    "Transfer dough to a piping bag fitted with a star nozzle.",
+    "Pipe cookies onto the prepared tray.",
+    "Bake for 10–12 minutes until edges are lightly golden.",
+    "Cool completely before storing in an airtight container."
+  ]
+},
+{
+  "slug": "vanilla-tea-cake",
+  "title": "Vanilla Tea Cake",
+  "image": "assets/images/free-recipes/vanilla-tea-cake.png",
+  "description": "Soft and fluffy vanilla cake perfect with tea.",
+  "prep": "15 mins",
+  "cook": "35 mins",
+  "servings": "8 slices",
+  "difficulty": "Easy",
+  "ingredients": [
+    "1/2 cup unsalted butter (softened)",
+    "3/4 cup powdered sugar",
+    "2 eggs",
+    "1 tsp vanilla extract",
+    "1 1/2 cups all-purpose flour",
+    "1 1/2 tsp baking powder",
+    "1/4 tsp salt",
+    "1/2 cup milk"
+  ],
+  "procedure": [
+    "Preheat oven to 180°C (350°F). Grease and line a loaf or round cake tin.",
+    "Cream butter and sugar until pale and fluffy.",
+    "Add eggs one at a time, beating well after each addition.",
+    "Mix in vanilla extract.",
+    "Sift together flour, baking powder and salt.",
+    "Add dry ingredients alternately with milk to the batter.",
+    "Pour batter into prepared tin and level the top.",
+    "Bake for 30–35 minutes or until a skewer inserted comes out clean.",
+    "Cool before slicing and serving."
+  ]
+},
+{
+  "slug": "eggless-chocolate-loaf-cake",
+  "title": "Eggless Chocolate Loaf Cake",
+  "image": "assets/images/free-recipes/eggless-chocolate-loaf-cake.png",
+  "description": "Moist and rich eggless chocolate loaf cake.",
+  "prep": "15 mins",
+  "cook": "40 mins",
+  "servings": "8 slices",
+  "difficulty": "Easy",
+  "ingredients": [
+    "1 1/2 cups all-purpose flour",
+    "1/4 cup cocoa powder",
+    "1 tsp baking soda",
+    "1/4 tsp salt",
+    "1 cup powdered sugar",
+    "1/2 cup oil",
+    "1 cup milk",
+    "1 tsp vanilla extract",
+    "1 tsp vinegar or lemon juice"
+  ],
+  "procedure": [
+    "Preheat oven to 180°C (350°F). Grease and line a loaf tin.",
+    "Sift together flour, cocoa powder, baking soda and salt.",
+    "In a bowl, mix sugar, oil, milk and vanilla extract until combined.",
+    "Add dry ingredients to the wet mixture and mix gently.",
+    "Stir in vinegar or lemon juice; mix lightly.",
+    "Pour batter into prepared loaf tin and tap gently.",
+    "Bake for 35–40 minutes until a toothpick inserted comes out clean.",
+    "Cool completely before slicing."
+  ]
+}
 ]

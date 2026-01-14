@@ -1,4 +1,5 @@
 async function loadData(url, containerId, type) {
+  console.log("Loading:", url, "Type:", type);
   const res = await fetch(url);
   const data = await res.json();
   const container = document.getElementById(containerId);
@@ -14,6 +15,14 @@ async function loadData(url, containerId, type) {
     const imgWrap = document.createElement('div');
     imgWrap.className = 'card-media';
     imgWrap.innerHTML = `<img src="${item.image}" alt="${item.title}">`;
+
+    // For paid recipes, add a price overlay on the image
+    if (type === 'paid') {
+      const priceEl = document.createElement('div');
+      priceEl.className = 'price-badge';
+      priceEl.textContent = item.price || 'Price on request';
+      imgWrap.appendChild(priceEl);
+    }
 
     const body = document.createElement('div');
     body.className = 'card-body';
